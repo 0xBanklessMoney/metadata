@@ -3,5 +3,5 @@
   "website": "https://github.com/0xBanklessMoney",
   "description": "BanklessMoney runs Mangata node",
   "logo": "https://r.resimlink.com/9FtrM.png",
-  "twitter": "https://twitter.com/BanklessMoney
+  "twitter": "https://twitter.com/BanklessMoney"
 }
