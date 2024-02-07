@@ -1,5 +1,7 @@
- "name": "BanklessMoney",
- "website": "https://github.com/0xBanklessMoney",
- "description": "BanklessMoney runs Mangata node",
- "logo": "https://r.resimlink.com/sX18iJt3-5.png",
- "twitter": "https://twitter.com/BanklessMoney
+{
+  "name": "BanklessMoney",
+  "website": "https://github.com/0xBanklessMoney",
+  "description": "BanklessMoney runs Mangata node",
+  "logo": "https://r.resimlink.com/sX18iJt3-5.png",
+  "twitter": "https://twitter.com/BanklessMoney
+}
